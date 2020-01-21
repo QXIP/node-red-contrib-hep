@@ -1,7 +1,7 @@
 node-red-contrib-hep
 =======================
 
-<a href="http://nodered.org" target="_new">Node-RED</a> function that takes the <b>msg.payload</b> and encapsulates or decapsulates it to HEPv3.
+<a href="http://nodered.org" target="_new">Node-RED</a> function that takes the <b>msg.payload</b> and encapsulates or decapsulates it to [HEPv3](https://github.com/sipcapture/hep).
 
 Installation
 ------------
